@@ -1,4 +1,4 @@
-# 🏦 Bank Financial Report CLI Tool
+# 🏦 Financial Report CLI Tool
 
 Tools CLI untuk membuat laporan keuangan bank yang berjalan di Kali Linux Terminal dengan integrasi langsung ke Microsoft Excel.
 
